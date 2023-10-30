@@ -63,9 +63,8 @@ You can find me on the web or reach out for collaboration and discussions on var
 
 ## 🌟 Visitors
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=bkaddoum.bkaddoum)
 
 ---
 
 ```markdown
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
