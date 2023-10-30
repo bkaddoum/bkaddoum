@@ -10,32 +10,28 @@
 
 ## About Me
 
-I'm a passionate [Your Profession], specializing in [Your Area of Expertise]. With [X] years of experience in the field, I'm dedicated to enhancing security, solving complex challenges, and sharing my knowledge with the community. When I'm not immersed in the world of cybersecurity, you can find me [Your Hobbies/Interests].
+I'm a passionate about technology, specializing in cybersecurity. With 8 years of experience in the field, I'm dedicated to enhancing security, solving complex challenges, and sharing my knowledge with the community. When I'm not immersed in the world of cybersecurity, you can find me playing padel & golf.
 
 ---
 
 ## 🧰 Skills & Tools
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
-- [Skill 5]
+- Leadership
+- Management
+- Technical to non-technical
 
 ---
 
 ## 🏆 Achievements
 
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
+- 1st company sold in 2018
+- Head of cybersecurity 
 
 ---
 
 ## 📚 Certifications
 
 - Certified Information Systems Security Professional (CISSP)
-- [Other Certifications]
 
 ---
 
