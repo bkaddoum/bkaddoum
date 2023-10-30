@@ -55,9 +55,9 @@ You can find me on the web or reach out for collaboration and discussions on var
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bkaddoum&show_icons=true)]
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bkaddoum&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
 
 ---
 
