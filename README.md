@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Bechara 👋</h1>
 
 <p align="center">
   <a href="[Your Website URL]">Website</a> •
