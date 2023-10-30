@@ -48,7 +48,7 @@ I'm a passionate about technology, specializing in cybersecurity. With 8 years o
 You can find me on the web or reach out for collaboration and discussions on various platforms:
 
 - 🌐 [Website](Your Website URL)
-- 💼 [LinkedIn](Your LinkedIn URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/becharakaddoum/)
 - 🐦 [Twitter](Your Twitter URL)
 
 ---
