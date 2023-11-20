@@ -1,6 +1,4 @@
 <h1 align="center">Hello, I'm Bechara 👋
-class MCSBT 
-</h1>
 
 <p align="center">
   <a href="[Your Website URL]">Website</a> •
