@@ -1,5 +1,4 @@
-<h1 align="center">Hello, I'm Bechara 👋
-
+<h1 align="center"> Bechara Kaddoum 
 <p align="center">
   <a href="[Your Website URL]">Website</a> •
   <a href="[LinkedIn URL]">LinkedIn</a> •
