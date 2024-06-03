@@ -6,14 +6,12 @@
   <a href="[Twitter URL]">Twitter</a>
 </p>
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions1)
-
 
 ---
 
 ## About Me
 
-I'm a passionate about technology, specializing in cybersecurity. With 8 years of experience in the field, I'm dedicated to enhancing security, solving complex challenges, and sharing my knowledge with the community. When I'm not immersed in the world of cybersecurity, you can find me playing padel & golf.
+I'm passionate about technology, specializing in cybersecurity. With 8 years of experience in the field, I'm dedicated to enhancing security, solving complex challenges, and sharing my knowledge with the community. When I'm not immersed in the world of cybersecurity, you can find me playing padel & golf.
 
 ---
 
