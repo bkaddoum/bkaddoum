@@ -13,6 +13,15 @@
 I'm passionate about technology, specializing in cybersecurity. With 8 years of experience in the field, I'm dedicated to enhancing security, solving complex challenges, and sharing my knowledge with the community. When I'm not immersed in the world of cybersecurity, you can find me playing padel & golf.
 
 ---
+## 🔬 Projects
+
+- Data Source: PostgreSQL database
+- Transformation [link]dbt[/link] for data modeling and transformation
+- Visualisation: [link] metabase [/link] dashboards for business intelligence
+- Metadata Management OpenMetada to unify all metadata in one platform (hosted locally)
+- AI Integration: OpenMetadata MCP + PostgreSQL MCP to connect with Claude Code and enable natural language queries, data profiling and automated workflows via custom skills.
+
+  
 
 ## 🧰 Skills & Tools
 
@@ -35,11 +44,6 @@ I'm passionate about technology, specializing in cybersecurity. With 8 years of 
 
 ---
 
-## 🔬 Projects
-
-- [Project 1]: [Project Description and Link]
-- [Project 2]: [Project Description and Link]
-- [Project 3]: [Project Description and Link]
 
 ---
 
