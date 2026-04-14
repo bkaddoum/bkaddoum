@@ -27,7 +27,6 @@ Technical security expert specializing in the intersection of **Identity and Dat
 - Visualisation: [link] metabase [/link] dashboards for business intelligence
 - Metadata Management OpenMetada to unify all metadata in one platform (hosted locally)
 - AI Integration: OpenMetadata MCP + PostgreSQL MCP to connect with Claude Code and enable natural language queries, data profiling and automated workflows via custom skills.
-
   
 
 
