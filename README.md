@@ -5,7 +5,6 @@
   <a href="[Twitter URL]">Twitter</a>
 </p>
 
-# Hi there! I'm [Your Name] 👋
 
 ## 🛡️ Cybersecurity Professional | Data Security & IAM 🔐
 
