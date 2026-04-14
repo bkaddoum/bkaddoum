@@ -5,15 +5,6 @@
   <a href="[Twitter URL]">Twitter</a>
 </p>
 
-
-Here is a professional, technical, and clean version in English for your GitHub Profile README.
-
-I have structured it to highlight your transition into Data Security and IAM while keeping your cybersecurity "Ethical Hacker" roots visible.
-
-Option 1: Professional & Impactful (Recommended)
-This version clearly shows your expertise in protecting data and managing identities.
-
-Markdown
 # Hi there! I'm [Your Name] 👋
 
 ## 🛡️ Cybersecurity Professional | Data Security & IAM 🔐
