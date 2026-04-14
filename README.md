@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social)](https://twitter.com/yourusername)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://yourportfolio.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://bkaddoum.github.io)
 
 
 ## 🛡️ Cybersecurity Professional | Data Security & IAM 🔐
