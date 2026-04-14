@@ -6,12 +6,29 @@
 </p>
 
 
----
+Here is a professional, technical, and clean version in English for your GitHub Profile README.
 
-## About Me
+I have structured it to highlight your transition into Data Security and IAM while keeping your cybersecurity "Ethical Hacker" roots visible.
 
-I'm passionate about technology, specializing in cybersecurity. With 8 years of experience in the field, I'm dedicated to enhancing security, solving complex challenges, and sharing my knowledge with the community. When I'm not immersed in the world of cybersecurity, you can find me playing padel & golf.
+Option 1: Professional & Impactful (Recommended)
+This version clearly shows your expertise in protecting data and managing identities.
 
+Markdown
+# Hi there! I'm [Your Name] 👋
+
+## 🛡️ Cybersecurity Professional | Data Security & IAM 🔐
+
+Technical security expert specializing in the intersection of **Identity and Data Protection**. I leverage my background in **Ethical Hacking** to build robust systems focused on data discovery, classification, and secure access management.
+
+### 🔍 Focus Areas:
+* **Data Security & Discovery:** Finding and hardening sensitive data assets (PII/PHI).
+* **IAM & Governance:** Implementing Least Privilege and Zero Trust architectures.
+* **Security Engineering:** Automating security workflows and identity controls.
+
+### 🛠️ Technical Toolkit:
+* **Security:** Data Classification, IAM Roles & Policies, Pentesting, Vulnerability Management.
+* **Languages:** Python, Bash, SQL (for data analysis/security automation).
+* **Concepts:** Zero Trust, RBAC/ABAC, Data Privacy (GDPR/SOC2).
 ---
 ## 🔬 Projects
 
@@ -23,29 +40,6 @@ I'm passionate about technology, specializing in cybersecurity. With 8 years of 
 
   
 
-## 🧰 Skills & Tools
-
-- Leadership
-- Management
-- Technical to non-technical
-
----
-
-## 🏆 Achievements
-
-- 1st company sold in 2018
-- Head of cybersecurity 
-
----
-
-## 📚 Certifications
-
-- Certified Information Systems Security Professional (CISSP)
-
----
-
-
----
 
 ## 📣 Let's Connect
 
